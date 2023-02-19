@@ -1,0 +1,11 @@
+.firstdiv{
+    background-color: blueviolet;
+    height: 350px;
+    display: flex;
+    
+}
+.one{
+    height: 300px;
+    width: 300px;
+    margin: 230px 10px;
+}
